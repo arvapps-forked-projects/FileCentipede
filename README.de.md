@@ -18,7 +18,6 @@ Es unterstützt Multiprotokolle und enthält viele nützliche Hilfstools wie HTT
 
 Mit der Browser-Integration können Sie Audio- und Videodateien von Websites herunterladen, sogar verschlüsselte Videos.
 
-(Es ist kostenlos und ohne Werbung)
 
 Webseite:<http://filecxx.com>
 

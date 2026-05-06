@@ -18,7 +18,6 @@ Hızlı, özelleştirilebilir ve kullanıcı dostu olacak şekilde tasarlanmış
 
 Tarayıcı desteği ile web sitelerinden ses ve video, hatta şifrelenmiş videoları bile indirebilirsiniz.
 
-(Reklamsız ve ücretsiz)
 
 
 Web site: [http://filecxx.com](http://filecxx.com)

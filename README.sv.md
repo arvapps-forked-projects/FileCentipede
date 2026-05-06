@@ -18,7 +18,6 @@ Den stöder flera protokoll och innehåller många användbara hjälpverktyg som
 
 Med webbläsarintegrationen kan du ladda ner ljud och videor från webbplatser, till och med krypterade videor.
 
-(Det är gratis utan annonser)
 
 Hemsida:<http://filecxx.com>
 

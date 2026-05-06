@@ -18,7 +18,6 @@ Supporta multiprotocolli e contiene molti utili strumenti ausiliari come HTTP re
 
 Con l'integrazione del browser, puoi scaricare audio e video da siti Web, persino video crittografati.
 
-(È gratuito senza pubblicità)
 
 Sito web:<http://filecxx.com>
 

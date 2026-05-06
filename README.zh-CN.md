@@ -18,7 +18,6 @@ File centipede 是一款一体化互联网文件上传/下载管理器、BitTorr
 
 通过浏览器集成，您可以从网站下载音频和视频，甚至加密的视频。
 
-（免费无广告）
 
 网站：[http://filecxx.com](http://filecxx.com)
 

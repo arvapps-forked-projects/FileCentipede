@@ -18,7 +18,6 @@ Ele oferece suporte a vários protocolos e contém diversas ferramentas auxiliar
 
 Com a integração do navegador, você pode baixar áudio e vídeos de sites, até mesmo vídeos criptografados.
 
-(É gratuito, sem anúncios)
 
 Site: [http://filecxx.com](http://filecxx.com)
 

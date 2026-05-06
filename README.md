@@ -18,7 +18,6 @@ It supports multi-protocols and contains many useful auxiliary tools such as HTT
 
 With the browser integration, you can download audio and videos from websites, even encrypted videos.
 
-(It's free with no ads)
 
 
 Website: [http://filecxx.com](http://filecxx.com)

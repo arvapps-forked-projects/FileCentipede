@@ -18,7 +18,6 @@ Admite múltiples protocolos y contiene muchas herramientas auxiliares útiles, 
 
 Con la integración del navegador, puede descargar audio y videos de sitios web, incluso videos encriptados.
 
-(Es gratis sin anuncios)
 
 Sitio web:<http://filecxx.com>
 

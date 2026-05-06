@@ -18,7 +18,6 @@ Il prend en charge plusieurs protocoles et contient de nombreux outils auxiliair
 
 Grâce à l'intégration du navigateur, vous pouvez télécharger des fichiers audio et des vidéos à partir de sites Web, même des vidéos cryptées.
 
-(C'est gratuit, sans publicité)
 
 Site web:<http://filecxx.com>
 
