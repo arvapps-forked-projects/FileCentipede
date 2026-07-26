@@ -302,4 +302,5 @@ reset=Sıfırlamak
 balance_reset_=Bakiyenizi her yıl sıfırlayabilirsiniz (eşik 28$'dır). <br/>30$ yüklediyseniz, 1$ veya 30$ kullanmış olmanız fark etmeksizin bakiyenizi 30$'a sıfırlayabilirsiniz.
 buy_lifetime_license=Ömür boyu lisans satın al
 buy_now=Şimdi satın al
+buy=satın al
 activation_code_tips2_=Bu yazılım gelecekte ücretsiz olarak sunulmayacak, ancak deneme aktivasyon kodu kalıcı olarak ve kullanım sınırlaması olmaksızın sağlanacaktır.

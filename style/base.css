@@ -140,7 +140,7 @@ code
 }
 .nav a.tool_button
 {
-    padding-left: 22px;
+    padding-left: 23px;
 }
 .nav .home_
 {
@@ -185,6 +185,10 @@ code
 .nav .user_reviews_
 {
     background: url("images/16/user.png") 4px 7px no-repeat;
+}
+.nav .donate_
+{
+    background: url("images/16/donate.png") 4px 7px no-repeat;
 }
 .nav .user_reviews_:active
 {

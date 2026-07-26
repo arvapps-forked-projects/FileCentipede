@@ -302,4 +302,5 @@ reset=Reset
 balance_reset_=Anda dapat mereset saldo Anda setiap tahun (ambang batas adalah 28$). <br/>Jika Anda mengisi ulang 30$, apakah Anda menggunakan 1 atau 30$, Anda dapat meresetnya ke 30$.
 buy_lifetime_license=Beli lisensi seumur hidup
 buy_now=Beli sekarang
+buy=Beli
 activation_code_tips2_=Perangkat lunak ini tidak akan tersedia secara gratis di masa depan, tetapi kode aktivasi percobaan akan disediakan secara permanen dan tanpa batasan penggunaan.
